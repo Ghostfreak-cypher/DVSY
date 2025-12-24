@@ -2,7 +2,7 @@ import React from "react";
 import { FaLongArrowAltDown } from "react-icons/fa";
 const AdvantageCard = () => {
   return (
-    <div className="h-1/3 w-full text-white p-6 md:p-10  bg-[#1E1E1E] rounded-xl flex flex-col gap-4">
+    <div className="h-full w-full text-white p-6 md:p-10  bg-[#1E1E1E] rounded-xl flex flex-col gap-4">
       <h1 className="text-xl md:text-2xl uppercase tracking-tighter text-zinc-300">
         INDEPENDENT DESIGNERS
       </h1>
